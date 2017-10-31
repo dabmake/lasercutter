@@ -1,0 +1,9 @@
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\bin\Debug\Ser-com.exe
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\bin\Debug\Ser-com.pdb
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\Ser-com.exe
+C:\Users\dab\documents\visual studio 2010\Projects\Ser-com\Ser-com\obj\x86\Debug\Ser-com.pdb
